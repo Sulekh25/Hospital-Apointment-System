@@ -2,13 +2,6 @@
 
 The Appointment Booking System is a web-based application developed using Next.js, React, TypeScript, MongoDB, Prisma, and Tailwind CSS. It allows users to create an account, login, create their own business services, and book appointments with those services. The system provides features such as listing upcoming appointments, managing reservations, displaying business services, and implementing search and filter functionality. The application is also responsive, ensuring a seamless experience across different devices.
 
-## Demo
-
-https://bookablebiz.vercel.app/
-
-## Project Intro video
-https://youtu.be/GOsriDFR_vY
-
 ## Features
 
 The Appointment Booking System provides the following key features:
